@@ -52,6 +52,12 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 </tr>
 </table>
 
+## Launch options
+
+```
++fps_max 0 -nojoy -softparticlesdefaultoff +violence_hblood 0 +r_drawparticles 0 -console
+```
+
 ## Installation
 
 ##### Downloading and installing steps:
